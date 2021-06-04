@@ -13,7 +13,7 @@ Quero fazer parte de projetos que ajudem as pessoas e a sociedade, que tragam de
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduribeiro&theme=dark&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduribeiro&layout=compact&theme=dark&langs_count=5)](https://github.com/carloseduribeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduribeiro&layout=compact&theme=dark&langs_count=5&hide=scss,css,less,powershell,html)](https://github.com/carloseduribeiro/github-readme-stats)
 
 - Obrigado pela visita!
 
